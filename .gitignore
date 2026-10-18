@@ -1,0 +1,3 @@
+.DS_Store
+# Actual images of failed comparisons
+.failures/
